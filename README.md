@@ -13,12 +13,14 @@
 ## Parameter:
 > [!Note]
 > The parameter will be show when the model complete.
+
 > [!Tip]
 > We guess the model after complete will around ~3B or lower.
 ---
 ## Setup:
 > [!Note]
 > Not coming out yet.
+
 > [!Tip]
 > Just load at a normal models
 ---
@@ -32,3 +34,4 @@
 ## Team:
 > [!Tip]
 > We will let you know when complete!.
+
