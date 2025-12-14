@@ -34,4 +34,9 @@
 ## Team:
 > [!Tip]
 > We will let you know when complete!.
+## Why we make this model:
+> We is currently working on project called 'Alkane Network' which our AI childrent called 'Alkane'.
+> She can hearing your voice, understanding - and talking to you at a person. She can remember, play video games or singing with you!.
+> We is in stage that developing her brain, which is the brain models. And of course that is what we will show you in next year.
+
 
